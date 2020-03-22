@@ -22,7 +22,7 @@ draft: false
 projects: []
 ---
 
-**NOTE:** The 2020 handbook does not have a complete version of the Computer Project description. This web page contains the full and offical description. It should be consider the authoritative source for the 2020 4-H seasion in Tippecanoe County.
+**NOTE:** The 2020 handbook does not have a complete version of the Computer Project requirements. This web page contains the full and offical description. It should be considered the authoritative source for the 2020 4-H season in Tippecanoe County.
 
 ##### Computer Project Exhibit Requirements {style=text-align:center}
 
