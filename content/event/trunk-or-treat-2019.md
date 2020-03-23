@@ -8,6 +8,7 @@ authors: []
 tags: [Events]
 categories: [events]
 publishDate: 2019-10-19T09:28:02-04:00
+expiryDate: 2019-11-08T20:00:00-04:00
 date: 2019-10-28T18:30:00-04:00
 date_end: 2019-10-28T20:00:00-04:00
 lastmod: 2019-10-19T09:28:02-04:00
