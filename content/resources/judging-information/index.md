@@ -78,7 +78,7 @@ We do not want to be overly prescriptive, but providing a framework on how to fo
 
 The notebook/portfolio provides three things to us 1) an attention-grabbing story/problem solved/new solution/etc. front cover; 2) a formal presentation of your solution; and 3) all of the behind-the-scenes efforts you put into devising your project. We want to see what you learned and how well you can present that to us!
 
-### How We Will Judge
+## How We Will Judge
 
 Given the general categories in the rubric, here is how we will assess each Computer Project entry:
 
