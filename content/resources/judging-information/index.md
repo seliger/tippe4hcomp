@@ -12,7 +12,7 @@ tags:
 categories:
 - details
 - project
-- judjing
+- judging
 date: "2020-05-23T20:20:00Z"
 lastmod: "2020-05-23T20:20:00Z"
 featured: true
@@ -56,7 +56,7 @@ The official requirements specify two deliverables for the Computer Project:
 - A **Notebook or Portfolio** with information related to how you assembled your project, with particular distinction paid towards having a detailed list of references
 - A **"thumb drive\*"** containing the resources and artifacts that comprise your project. These artifacts include, but are not limited to, source code, compiled executables, mobile app files, PowerPoint presentations, documents, video files, output files generated, etc.
 
-\* **NOTE:** Due to the pandemic in 2020, we may request that you submit files to a sharing service like Google Drive or Dropbox. _More details will come later as we better understand how the Fair will function this year._
+\* **NOTE:** Due to the pandemic in 2020, we will be utilizing FairEntry to submit completely digital notebooks/portfolios and any other deliverables. It may be appropriate to also share files via syncing services like Google Drive or Dropbox. Depending on the type of project, it could also be necessary to post video content via YouTube and share private links for judging purposes _More details will come later as we better understand how the Fair will function this year._
 
 We **strongly recommend** that you build your portfolio virtually, using either a word processor, like Microsoft Word or presentation manager, like Microsoft PowerPoint to assemble all of the pages that would typically go into a traditional notebook/portfolio. (Google Docs or other platforms are also acceptable so long as we can read the final output \[e.g., PDF file, published web site, etc.\]) However, we do not want to discourage hand notes or other handwritten documents, as they generally are essential parts of the brainstorming process. We would request that you either scan or take pictures of those artifacts and insert them into your virtual notebook.
 
