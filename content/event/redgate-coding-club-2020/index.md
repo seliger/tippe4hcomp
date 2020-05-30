@@ -5,7 +5,7 @@ title: "Redgate Coding Club 2020"
 subtitle: ""
 summary: ""
 authors: []
-tags: [Events, Block Coding]
+tags: [Events, Block Programming]
 categories: [events]
 publishDate: 2020-03-22T16:01:56-04:00
 date: 2020-04-03T00:00:00-04:00
