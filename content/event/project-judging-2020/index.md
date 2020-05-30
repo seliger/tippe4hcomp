@@ -32,3 +32,4 @@ projects: []
 
 Judging of the Computer Project will occur VIRTUALLY on July 13. More information will be shared soon about how to submit your project deliverables and if there will be a way to present to the judges.
 
+More information regarding the judging process and how to prepare your project can be found on the [Judging Information]({{< ref "/resources/judging-information" >}}) page.
