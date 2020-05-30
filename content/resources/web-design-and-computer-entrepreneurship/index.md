@@ -1,12 +1,12 @@
 ---
-title: "Block Programming Resources"
-subtitle: 'Resources and information regarding block programming.'
-summary: Resources and information regarding block programming.
+title: "Web Design and Computer Entrepreneurship Resources"
+subtitle: 'Resources and information regarding web design and computer entrepreneurship.'
+summary: Resources and information regarding web design and computer entrepreneurship.
 authors:
 - admin
 tags:
 - Resources
-- Block Programming
+- Web Design and Computer Entrepreneurship
 categories:
 - resources
 date: "2020-05-30T10:12:00Z"

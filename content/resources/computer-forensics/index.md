@@ -1,12 +1,12 @@
 ---
-title: "Block Programming Resources"
-subtitle: 'Resources and information regarding block programming.'
-summary: Resources and information regarding block programming.
+title: "Computer Forensics Resources"
+subtitle: 'Resources and information regarding computer forensics.'
+summary: Resources and information regarding computer forensics.
 authors:
 - admin
 tags:
 - Resources
-- Block Programming
+- Computer Forensics
 categories:
 - resources
 date: "2020-05-30T10:12:00Z"

@@ -1,12 +1,12 @@
 ---
-title: "Block Programming Resources"
-subtitle: 'Resources and information regarding block programming.'
-summary: Resources and information regarding block programming.
+title: "Hardware and Networking Resources"
+subtitle: 'Resources and information regarding hardware and networking.'
+summary: Resources and information regarding hardware and networking.
 authors:
 - admin
 tags:
 - Resources
-- Block Programming
+- Hardware and Networking
 categories:
 - resources
 date: "2020-05-30T10:12:00Z"
