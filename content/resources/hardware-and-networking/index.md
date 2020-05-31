@@ -38,6 +38,13 @@ draft: false
 * [What is a Firewall?](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
 * [5 Best Network Simulators for Cisco Exams](https://www.cbtnuggets.com/blog/career/career-progression/5-best-network-simulators-for-cisco-exams-ccna-ccnp-and-ccie)
 
+### Other Possible Networking Topic Spaces
+
+* WiFi Networking
+* 5G and Cellular technology
+* Voice over IP (VoIP)
+
+
 ### Tools
 
 * [Lucidchart](https://www.lucidchart.com) (Online diagramming tool)
