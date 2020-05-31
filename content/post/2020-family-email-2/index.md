@@ -22,7 +22,7 @@ As you have heard by now, the Tippecanoe County 4-H Fair will occur this July, a
 
 * I have finally updated the Computer Project website. Please check it out:  [https://tippe4hcomp.org/](https://tippe4hcomp.org/)
 
-  * Because we have gone without a Project Leader, I felt it necessary to write out my hopes and expectations for judging and how to prepare your entries. Please spend time reading this page carefully and contact me with any questions you might have. [https://tippe4hcomp.org/resources/judging-information/](https://tippe4hcomp.org/resources/judging-information/)
+  * Because we have gone without a Project Leader, I felt it necessary to write out my hopes and expectations for judging and how to prepare your entries. **Please spend time reading this page carefully and contact me with any questions you might have.** [https://tippe4hcomp.org/resources/judging-information/](https://tippe4hcomp.org/resources/judging-information/)
 
   * I have tried to gather up some resources for each of the significant subject spaces within the Computer Project. Please note, this is NOT a comprehensive list. If you do not see your area of interest listed, do not assume it is not valid. This project is broad, and anything in computer science/technology goes! If you still find yourself unsure, please ask me!  [https://tippe4hcomp.org/tags/resources/](https://tippe4hcomp.org/tags/resources/)
 
