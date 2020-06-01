@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 
-HUGO_ENV="production"
-
-hugo
+hugo -e production
 hugo deploy --invalidateCDN --maxDeletes -1
