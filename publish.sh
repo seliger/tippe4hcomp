@@ -2,5 +2,5 @@
 
 HUGO_ENV="production"
 
-hugo
+hugo --gc --minify
 hugo deploy --invalidateCDN --maxDeletes -1
