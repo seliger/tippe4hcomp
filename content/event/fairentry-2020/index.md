@@ -10,7 +10,7 @@ categories: [events, fairentry, fair]
 publishDate: 2020-06-25T18:00:00-04:00
 date: 2020-07-10T00:00:00-04:00
 date_end: 2020-07-10T23:59:59-04:00
-lastmod: 2020-05-25T18:00:00-04:00
+lastmod: 2020-06-25T18:00:00-04:00
 featured: false
 draft: false
 
