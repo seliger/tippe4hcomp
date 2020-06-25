@@ -8,8 +8,8 @@ authors: []
 tags: [Events, Judging, Fair]
 categories: [events, judging, fair]
 publishDate: 2020-05-28T22:00:00-04:00
-date: 2020-07-13T00:00:00-04:00
-date_end: 2020-07-13T23:59:59-04:00
+date: 2020-07-13T08:00:00-04:00
+date_end: 2020-07-13T12:00:00-04:00
 lastmod: 2020-05-28T22:00:00-04:00
 featured: false
 draft: false
