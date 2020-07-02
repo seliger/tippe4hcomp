@@ -35,7 +35,7 @@ We are in the home stretch! I have some additional tasks that all of you need to
 
       Please enter your member's name and select a time. Previously selected time slots will appear grayed out. If you have multiple members, you may need to visit this site numerous times to enter each person. 
 
-   2. On Monday, July 13, we run a Zoom meeting where members will individually showcase their project to the judge. I will also be attending the meeting in a supervisory capacity, but I will not discuss results with the judge until final decisions have occurred.
+   2. On Monday, July 13, we will run a Zoom meeting where members will individually showcase their project to the judge. I will also be attending the meeting in a supervisory capacity, but I will not discuss results with the judge until final decisions have occurred.
 
       When you enter the meeting, you will start in the "waiting room." Please wait patiently while we prepare for your presentation. We recommend connecting to the meeting 5 minutes before your scheduled time to ensure you can join, and we can keep things moving along if we happen to be running early. You are more than welcome to share your screen or guide the judge through any activities as a part of the demonstration. There is no requirement to have 15 minutes' worth of content! If you cannot join via computer, we are providing a phone bridge that you can call into and discuss your project.
 
