@@ -10,7 +10,7 @@ tags:
 categories:
 - resources
 date: "2020-05-30T10:12:00Z"
-lastmod: "2020-05-30T10:21:00Z"
+lastmod: "2020-07-27T15:40:00Z"
 featured: true
 draft: false
 ---
@@ -27,6 +27,8 @@ draft: false
 ### Cyber Security
 
 * [Cryptology for Kids](https://www.cerias.purdue.edu/education/k-12/teaching_resources/lessons_presentations/cryptology.html)
+* [A Guide to Codes and Cipher Terminology](https://unscrambler.co/codes-cipher-terminology/)
+* [Word Unscrambler](https://unscrambler.co/)
 * [Secret Codes for Kids: Ciphers to try at home or in the classroom](https://www.giftofcuriosity.com/secret-codes-for-kids/)
 * [What is Metasploit?](https://www.csoonline.com/article/3379117/what-is-metasploit-and-how-to-use-this-popular-hacking-tool.html) (Advanced)
 
