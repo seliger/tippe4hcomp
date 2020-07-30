@@ -1,0 +1,25 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+    <div class="article-style">
+      {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+        <h2>{{ .Key }}</h2>
+        <ul>
+        {{ range .Pages.ByTitle }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Param "gradelevel" }}</li>
+        {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}
