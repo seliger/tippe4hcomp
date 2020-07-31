@@ -1,0 +1,19 @@
+{{ if .IsNamedParams }}
+    (
+    {{ if .Get "color" | eq "purple"}}
+        <span style="text-shadow: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) -1px 0px 0px, rgb(0, 0, 0) 0px 1px 0px, rgb(0, 0, 0) 0px -1px 0px; color: rgb(156, 39, 176);">
+            <i class="fa fa-fw fa-bookmark"></i> Purple
+    {{ else if .Get "color" | eq "lavender" }}
+        <span style="text-shadow: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) -1px 0px 0px, rgb(0, 0, 0) 0px 1px 0px, rgb(0, 0, 0) 0px -1px 0px; color: rgb(204, 153, 204);">
+            <i class="fa fa-fw fa-bookmark"></i> Lavender
+
+    {{ else if .Get "color" | eq "blue" }}
+        <span style="text-shadow: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) -1px 0px 0px, rgb(0, 0, 0) 0px 1px 0px, rgb(0, 0, 0) 0px -1px 0px; color: rgb(229, 28, 35);">
+            <i class="fa fa-fw fa-bookmark"></i> Blue
+    {{ else if .Get "color" | eq "red" }}
+        <span style="text-shadow: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) -1px 0px 0px, rgb(0, 0, 0) 0px 1px 0px, rgb(0, 0, 0) 0px -1px 0px; color: rgb(86, 119, 252);">
+            <i class="fa fa-fw fa-bookmark"></i> Red
+    {{ end }}
+    </span>
+    )
+{{ end }}
