@@ -8,6 +8,8 @@ Level 1 exhibits include grades 3 - 5 and can cover any topic areas within the C
 
 #### 1177 - Bacon's Journey Through the 4-H Fair  {{< ribbon color="purple" >}}
 
+#### State Fair Ribbon: {{< ribbon color="orange" >}}
+
 Isabelle S. - Grade 5
 
 > Game written in Scratch allowing a player to show a pig at the 4-H fair.

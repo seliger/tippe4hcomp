@@ -9,7 +9,9 @@ Level 2 exhibits include grades 6 - 8 and can cover any topic areas within the C
 
 #### 3162 - The Sign Guy Website Redesign {{< ribbon color="purple" >}}
 
-Peyton O. - Grade 8
+#### State Fair Ribbon: {{< ribbon color="orange" >}}
+
+Peyton O. - Grade 8 
 
 > Project to redesign a customer's web presence.
 
