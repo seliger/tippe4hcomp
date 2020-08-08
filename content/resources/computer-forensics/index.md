@@ -9,7 +9,7 @@ tags:
 - Computer Forensics
 categories:
 - resources
-date: "2020-05-30T10:12:00Z"
+date: "2020-07-27T15:40:00Z"
 lastmod: "2020-07-27T15:40:00Z"
 featured: true
 draft: false
