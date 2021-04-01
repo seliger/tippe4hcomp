@@ -30,13 +30,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "corey.seliger@gmail.com"
   
 ---
 
-Welcome to the website for the Tippecanoe County 4-H Computer Project. This site will serve
-as a focal point for information and resources that should prove useful as you complete your
-computer projects. We will also use this site to post information regarding upcoming events
-and judging information as we get closer to July. 
+## Hello!
 
-Please check back frequently for more information!
+### Some Background on Me
+
+I am the Risk Management Director within Information Technology at Purdue (ITaP). I have been with the university for 19 years, starting as a web app developer in 2002, literally in the basement of the MATH building. During my time at the university, I have spent time as a Faculty Fellow, participated as a mentor in the Men’s Leadership Series, advised the Purdue Chapter of Business Professionals of America (BPA), served as the Post-Secondary state advisor for BPA, and served as President of the Purdue Polytechnic Alumni Board. I have both my Bachelor’s and Master’s degree from Purdue in Computer and Information Technology, with emphasis on data analytics and leadership. Recently, I have taken on an assistant coach role for the Burnett Creek Elementary School Robotics Team (VEX IQ), and we are taking all four of our teams to the State Championship this Saturday (super excited and super proud!!).
+
+I have a great deal of leadership, mentorship, and technology experiences, and I am ready to share those with our 4-H’ers as they participate, learn, and lead in this project. I am looking forward to working with all of you over the coming weeks and months leading up to the fair!

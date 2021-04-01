@@ -41,6 +41,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   # If only creating events which are talks, we can optimize event URLs for talks.
   event = "/talk/:slug/"
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+  authors = "/author/:slug/"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
