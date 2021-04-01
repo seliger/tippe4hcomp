@@ -126,4 +126,6 @@ As always, it's important to stop and test things along the way. Below is a quic
 
 I'm glad I did this. I learned more about the lower layers of robotics hardware beyond the VEX IQ or LEGO kits. I determined I'm pretty good at soldering, but could use some more practice. I also gained confidence in "hacking" something together from effectively nothing. It's a great little toy, and much more learning will occur with it.
 
+{{< figure src="images/robot-014.jpg" >}}
+
 Thanks for tagging along with me!
