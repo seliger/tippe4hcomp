@@ -117,7 +117,7 @@ As always, it's important to stop and test things along the way. Below is a quic
 
 ## What's Next?
 
-* WRITING SOME ACTUAL CODE! Right now I have some basic scaffolding to propel the robot forward, view the camera output, and drive the car forward. So much more work to do.
+* WRITING SOME ACTUAL CODE! Right now I have some basic scaffolding to propel the robot forward, view the camera output, and spin the servos. So much more work to do.
 * Add a gyroscope. I want to be able to detect the direction and directional drift of the robot while it is driving.
 
 {{< figure src="images/robot-013.jpg" >}}
