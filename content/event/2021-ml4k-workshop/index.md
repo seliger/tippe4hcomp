@@ -38,7 +38,7 @@ We will be using a platform called [Machine Learning for Kids](https://machinele
 
 **NO PROGRAMMING EXPERIENCES NECESSARY OR REQUIRED!** We will help you through the steps!
 
-**WHEN:** Saturday, May 1, 2021, 10:00 am - 12:00 program
+**WHEN:** Saturday, May 1, 2021, 10:00 am - 12:00 pm
 
 **WHERE:** Virtual, using a Zoom Meeting
 
