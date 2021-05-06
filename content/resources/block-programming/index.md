@@ -10,13 +10,13 @@ tags:
 categories:
 - resources
 date: "2020-05-30T10:12:00Z"
-lastmod: "2020-05-30T10:21:00Z"
+lastmod: "2021-05-06T18:30:00Z"
 featured: true
 draft: false
 ---
 
 
-**NOTE:** *These resources are intended to be guides for potential ideas, tools, and methodologies. This is not a comprehensive list, and because something is not listed does not imply it is out of bounds. The Computer Project is quite broad and anything relating to the discipline of computer science and technology is certainly applicable.*
+**NOTE:** *These resources are intended to guide potential ideas, tools, and methodologies. This list is not comprehensive, and because something is not listed does not imply it is out of bounds. The Computer Project is quite broad, and anything relating to the discipline of computer science and technology is certainly applicable.*
 
 ### Development Tools
 
@@ -34,5 +34,6 @@ draft: false
 
 ### Reference Materials
 
+* [Scratch Tutorials](https://scratch.mit.edu/ideas)
 * [Scratch Wiki](https://en.scratch-wiki.info/)
 * [Redgate Coding Club YouTube Channel](https://www.youtube.com/playlist?list=PLU-_XMoixlj89psBPYgmTAHA4U5BCNj6u)
