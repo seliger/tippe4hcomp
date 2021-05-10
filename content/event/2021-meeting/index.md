@@ -34,4 +34,4 @@ projects: []
 
 * **Date:** Tuesday, June 22, 2021, 6:00 pm
 * **Where:** Zoom session
-* **Registration Link:** https://apps.tippe4hcomp.org/survey/342924?lang=en
+* **Registration Link:** <https://apps.tippe4hcomp.org/survey/342924?lang=en>
