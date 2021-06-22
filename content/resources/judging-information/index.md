@@ -61,8 +61,9 @@ If you are doing something hardware-based (e.g., building a computer, a network,
 We do not want to be overly prescriptive, but providing a framework on how to format the notebooks will help us more accurately judge and improve the overall quality of the entries. A preferred format would entail:
 
 - **COVER:** a creative and descriptive cover page, if presented in a physical notebook, would capture someone's attention
-- **SECTION 1:** the presentation portion of your content, if applicable
-- **SECTION 2:** appendices - can include, but not limited to:
+- **SECTION 2:** links to any online videos, websites, Google Docs, OneDrive, etc. containing any information you wish to share with the judges
+- **SECTION 2:** the presentation portion of your content, if applicable
+- **SECTION 3:** appendices - can include, but not limited to:
   - any notes or brainstorming materials
   - drawings, designs, requirements collected
   - schematics, ERDs, class diagrams, etc.
@@ -70,7 +71,7 @@ We do not want to be overly prescriptive, but providing a framework on how to fo
   - interview notes from anyone you talked with regarding the project
   - your thoughts and reactions to this project that wouldn't be part of the presentation materials (lessons learned, what I'd do differently, etc.)
   - failures! We want to see how you failed, building towards your success!
-- **SECTION 3:** listing of all references used throughout the implementation of your project
+- **SECTION 4:** listing of all references used throughout the implementation of your project
 
 The notebook/portfolio provides three things to us 1) an attention-grabbing story/problem solved/new solution/etc. front cover; 2) a formal presentation of your solution; and 3) all of the behind-the-scenes efforts you put into devising your project. We want to see what you learned and how well you can present that to us!
 
