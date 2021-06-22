@@ -61,7 +61,7 @@ If you are doing something hardware-based (e.g., building a computer, a network,
 We do not want to be overly prescriptive, but providing a framework on how to format the notebooks will help us more accurately judge and improve the overall quality of the entries. A preferred format would entail:
 
 - **COVER:** a creative and descriptive cover page, if presented in a physical notebook, would capture someone's attention
-- **SECTION 2:** links to any online videos, websites, Google Docs, OneDrive, etc. containing any information you wish to share with the judges
+- **SECTION 1:** links to any online videos, websites, Google Docs, OneDrive, etc. containing any information you wish to share with the judges
 - **SECTION 2:** the presentation portion of your content, if applicable
 - **SECTION 3:** appendices - can include, but not limited to:
   - any notes or brainstorming materials
