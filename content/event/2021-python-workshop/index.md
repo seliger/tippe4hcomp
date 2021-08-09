@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Intro to Python Workshop"
+title: "CANCELLED: Intro to Python Workshop"
 subtitle: ""
 summary: ""
 authors: []
@@ -29,6 +29,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+**NOTE::** Due to scheduling conflicts, this event is canceled. Thank you to those who signed up. We will provide more opportunities at a later date.
 
 **Introduction to Python** - *Open to Computer Project Levels 2+ (Grades 6 - 12)*. If you are new to Python and want to learn some of the basics, this session will benefit you. We will talk about how to get set up in Python and the core components of the language. Depending on how it goes, we may discuss some Pygame basics.
 
