@@ -1,7 +1,7 @@
 ---
 title: 'Computer Project - Official Details'
-subtitle: 'Complete description and requirements for the 2021 4-H Computer Project'
-summary: Complete description and requirements for the 2021 4-H Computer Project
+subtitle: 'Complete description and requirements for the 2022 4-H Computer Project'
+summary: Complete description and requirements for the 2022 4-H Computer Project
 authors:
 - admin
 tags:
@@ -14,8 +14,8 @@ categories:
 - project
 - rules
 - exhibit
-date: "2020-01-14T17:37:00Z"
-lastmod: "2021-01-11T17:37:00Z"
+date: "2022-02-26T09:00:00Z"
+lastmod: "2022-02-26T09:00:00Z"
 featured: true
 draft: false
 
@@ -24,9 +24,9 @@ projects: []
 
 ## Computer Project Exhibit Requirements {style=text-align:center}
 
-There are three exhibit grade level divisions; Grades 3-5, Beginner; Grades 6-8, Intermediate; and Grades 9-12, Advanced.  Exhibits are to be skill appropriate for the member’s grade level.
+There are three exhibit grade level divisions; Grades 3-5, Beginner; Grades 6-8, Intermediate; and Grades 9-12, Advanced. Exhibits are to be skill appropriate for the member’s grade level.
 
-Youth enrolled in the computer project will select one of the below subject categories to study, regardless of grade.  Youth may choose to create an exhibit demonstrating skills learned during the year.  Check with your county Purdue Extension Office to determine if a computer will be available during judging and if there will be an opportunity to explain your exhibit to the judge. Exhibits qualifying for state fair are to be submitted on a thumb drive securely attached to a notebook/portfolio describing accomplishments, skills learned, design ideas, budget, a summary of what was done, screenshots showing the development and final project, etc. as the exhibitor will not be able to discuss their work with a judge.  Poster exhibits 22”x28” or freestanding 3-dimensional display boards no larger than 36”x36” may be submitted.  Youth may continue in the same subject category in subsequent years expand on the previous year’s topic or choose a new topic.  Subject categories are:
+Youth enrolled in the computer project will select one of the below subject categories to study, regardless of grade. Youth may choose to create an exhibit demonstrating skills learned during the year. Check with your county Purdue Extension Office to determine if a computer will be available during judging and if there will be an opportunity to explain your exhibit to the judge. Exhibits qualifying for state fair are to be submitted on a thumb drive securely attached to a notebook/portfolio describing accomplishments, skills learned, design ideas, budget, a summary of what was done, screenshots showing the development and final project, etc. as the exhibitor will not be able to discuss their work with a judge. Poster exhibits 22”x28” or freestanding 3-dimensional display boards no larger than 36”x36” may be submitted. Youth may continue in the same subject category in subsequent years expand on the previous year’s topic or choose a new topic. Subject categories are:
 
 * Block Based Programming
 * Text Based Programming
@@ -34,18 +34,23 @@ Youth enrolled in the computer project will select one of the below subject cate
 * Computer Forensics
 * Hardware and Networking Design/Install/Repair
 * Graphic Design and Computer Art
+* Robotics
 
-Software submitted to be reviewed by a judge must be compatible on both PC and Mac platform. If additional software other than Microsoft Office Suite is required to view the member’s work, that software must be provided by the member and comply with all manufacturer copyright laws.  Apps can be Android or IOS compatible.
+Software submitted to be reviewed by a judge must be compatible on both PC and Mac platforms. If additional software other than Microsoft Office Suite is required to view the member’s work, that software must be provided by the member and comply with all manufacturer copyright laws. Apps can be Android or IOS compatible.
 
-All notebooks/portfolios must include a reference list indicating where information was obtained, giving credit to the original author, to complete the 4-H member’s exhibit. This reference list should/might include web site links, people and professionals interviewed, books, magazines, etc. It is recommended this reference list be the last page of a notebook or included as part of the display visible to the public. A judge is not to discredit an exhibit for the manner in which references are listed.
+All notebooks/portfolios must include a reference list indicating where information was obtained, giving credit to the original author, to complete the 4-H member’s exhibit. This reference list should/might include website links, people and professionals interviewed, books, magazines, etc. It is recommended this reference list be the last page of a notebook or included as part of the display visible to the public. A judge is not to discredit an exhibit for the manner in which references are listed.
+
+Judges evaluating exhibits should recognize individual differences and creativity, therefore using the information in this document as a guide rather than a requirement.
 
 <p style="text-align: center; font-weight: bold;">
 A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIVISION.
 </p>
 
+## Exhibit Class Guidelines
+
 ### Blocked Based Programming
 
-**Beginner – Grades 3-5 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice.   You should comment your work and it must include at least ten different commands.  Skills this program could use are:
+**Beginner – Grades 3-5 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
 
 * Sequence
 * Iteration
@@ -55,14 +60,14 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 * User input
 * Any other similar skill
 
-**Intermediate Grades 6-8 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice.   You should comment your work and it must include at least ten different commands.  Skills this program could use are:
+**Intermediate – Grades 6-8 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
 
 * More robust demonstration of beginner skills
 * Modularization
 * Lists
 * Any other similar skill
 
-**Advanced Grades 9-12 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands.  Skills this program could use are:
+**Advanced – Grades 9-12 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
 
 * More robust demonstration of Intermediate Skills
 * Parameters
@@ -71,9 +76,9 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 
 ### Text Based Programming
 
-**Beginner Grades 3-5 –** This option is not available.
+**Beginner – Grades 3-5 –** This option is not available.
 
-**Intermediate Grades 6-8 –** Create a text-based program of your choosing using any text-based language you are comfortable in.  The code should demonstrate an understanding of at least 4 of these skills:
+**Intermediate – Grades 6-8 –** Create a text-based program of your choosing using any text-based language you are comfortable in. The code should demonstrate an understanding of at least 4 of these skills:
 
 * Commenting
 * Correct syntax
@@ -86,7 +91,7 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 * Algorithms
 * Any other similar skill
 
-**Advanced Grades 9-12 –** Create a text-based program of your choosing using any text-based language you are comfortable in.  The code should demonstrate an understanding of at least 8 of these skills:
+**Advanced Grades 9-12 –** Create a text-based program of your choosing using any text-based language you are comfortable in. The code should demonstrate an understanding of at least 8 of these skills:
 
 * A more robust understanding of the intermediate skills
 * Interact with databases
@@ -99,7 +104,7 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 
 ### Web Design and Computer Entrepreneurship
 
-**Beginner Web Design and Computer Entrepreneurship – Grades 3-5 –** Build a website demonstrating a knowledge of:
+**Beginner – Web Design and Computer Entrepreneurship – Grades 3-5 –** Build a website demonstrating a knowledge of:
 
 * Use a website builder to create your website
 * Insert non-stock image into your site
@@ -107,7 +112,7 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 * Explain CSS in your documentation, what CSS is and why it is important
 * Must have at least two pages and include all items listed above
 
-**Intermediate Web Design and Computer Entrepreneurship – Grades 6-8 –** Build a website demonstrating a knowledge of:
+**Intermediate – Web Design and Computer Entrepreneurship – Grades 6-8 –** Build a website demonstrating a knowledge of:
 
 * Create your own site or use a website builder
 * Modify existing HTML
@@ -117,7 +122,7 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 * Use a photo editing software to create custom images
 * Must have at least five pages and include all items listed above
 
-**Advanced Web Design and Computer Entrepreneurship – Grades 9-12 –** Build a website demonstrating a knowledge of:
+**Advanced – Web Design and Computer Entrepreneurship – Grades 9-12 –** Build a website demonstrating a knowledge of:
 
 * Create a custom site using appropriate industry tools
 * Have a responsive website
@@ -129,9 +134,9 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 
 ### Computer Forensics
 
-(id theft, online bullying, ethical use of technology, responsible social media use)
+(identity theft, online bullying, ethical use of technology, responsible social media use)
 
-**Beginner Computer Forensics – Grades 3-5 –** Research and create a 3-5-minute presentation on one of the following topics.  Present to a group of peers and have an adult leader verify, create a YouTube or MP4 instructional video, or printed slides and notes using PowerPoint or similar presentation software.  
+**Beginner – Computer Forensics – Grades 3-5 –** Research and create a 3-5-minute presentation on one of the following topics. Present to a group of peers and have an adult leader verify, create a YouTube or MP4 instructional video, or printed slides and notes using PowerPoint or similar presentation software. 
 
 * Media Balance and Well Being
 * Privacy and Security
@@ -141,40 +146,40 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 * News and Media Literacy
 * Any other similar topic
 
-**Intermediate Computer Forensics – Grades 6-8 –** Research and create a 6-8-minute presentation on one of the following topics. Present to a group of peers and have an adult leader verify, create a YouTube or MP4 instructional video, or printed slides and notes using PowerPoint or similar presentation software.  
+**Intermediate – Computer Forensics – Grades 6-8 –** Research and create a 6-8-minute presentation on one of the following topics. Present to a group of peers and have an adult leader verify, create a YouTube or MP4 instructional video, or printed slides and notes using PowerPoint or similar presentation software. 
 
 * Digital Citizenship:
-  * Media Balance and Well Being
-  * Privacy and Security
-  * Digital Footprint and Identity
-  * Relationships and Communication
-  * Cyberbullying, Digital Drama and Hate Speech
-  * News and Media Literacy
+ * Media Balance and Well Being
+ * Privacy and Security
+ * Digital Footprint and Identity
+ * Relationships and Communication
+ * Cyberbullying, Digital Drama and Hate Speech
+ * News and Media Literacy
 * Cyber Security
-  * Ethics and Society
-  * Security Principles
-  * Classic Cryptography
-  * Malicious Software
-  * Physical Security
-  * Web Security
+ * Ethics and Society
+ * Security Principles
+ * Classic Cryptography
+ * Malicious Software
+ * Physical Security
+ * Web Security
 * Any other similar topic
 
-**Advanced Computer Forensics – Grades 9-12 –** Research and create a 10-12-minute presentation on one of the following topics.  Present to a group of peers and have an adult leader verify, create a YouTube or MP4 instructional video, or printed slides and notes using PowerPoint or similar presentation software.  
+**Advanced – Computer Forensics – Grades 9-12 –** Research and create a 10-12-minute presentation on one of the following topics. Present to a group of peers and have an adult leader verify, create a YouTube or MP4 instructional video, or printed slides and notes using PowerPoint or similar presentation software. 
 
 * Digital Citizenship:
-  * Media Balance and Well Being
-  * Privacy and Security
-  * Digital Footprint and Identity
-  * Relationships and Communication
-  * Cyberbullying, Digital Drama and Hate Speech
-  * News and Media Literacy
+ * Media Balance and Well Being
+ * Privacy and Security
+ * Digital Footprint and Identity
+ * Relationships and Communication
+ * Cyberbullying, Digital Drama and Hate Speech
+ * News and Media Literacy
 * Cyber Security
-  * Ethics and Society
-  * Security Principles
-  * Classic Cryptography
-  * Malicious Software
-  * Physical Security
-  * Web Security
+ * Ethics and Society
+ * Security Principles
+ * Classic Cryptography
+ * Malicious Software
+ * Physical Security
+ * Web Security
 * Any other similar topic
 
 ### Hardware and Networking Design/Install/Repair
@@ -206,7 +211,7 @@ Advanced – Grades 9-12 – Choose one or two items from the list ad create a r
 
 * Design and implement a computer network
 * Secure your network
-* Understand technology needs in your community.  
+* Understand technology needs in your community. 
 * Help to solve these needs by organizing a committee or team to work on identified issues.
 * Teach a computer science class to younger 4-Hers.
 * Build your dream computer
@@ -224,3 +229,33 @@ There are three divisions: Beginner (Grades 3-5), Intermediate (Grades 6-8) and 
 * Marketing materials
 * Computer generated art
 * Computer altered photographs/images – Photographs taken by the 4-H member and altered by the 4-H member using a computer are to be entered in the Photography project as a creative/experimental exhibit. Youth must obtain permission from the owner before altering someone else’s photograph/image and include a copy of that permission with the exhibit to insure there is no copyright violation.
+
+
+### Robotics
+Suggested exhibits include, but are not limited to, a notebook including a printout of code with requirements marked, a flowchart showing how the robot works, images of the robot being built and the final robot in action, a video, a live demonstration, or other applicable exhibits.
+
+**Beginner – Robotics – Grades 3-5 –**
+* Create a Flowchart
+* Build a Robot
+* Use a block-based program to operate
+* Sequential Programs
+* Events at Beginning
+* Use at least one basic sensor
+
+**Intermediate – Grades 6-8 –**
+* Create a flowchart with sub-routines
+* Include at least two sensors in the robot
+* Use at least three events in the code
+* Create two loops in the code
+* Operation of the robot should be smooth
+
+**Advanced – Grades 9-12 –**
+
+Above guidelines plus:
+* Use text-based language
+* Used advanced logic including:
+  * Multiple (three or more) events
+  * Multiple (three or more) loops
+  * At least three subroutines
+* Special consideration if the robot is not a kit
+
