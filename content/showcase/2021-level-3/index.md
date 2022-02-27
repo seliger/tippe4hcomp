@@ -25,12 +25,6 @@ Audrey W. - Grade 9
 * [Link to Notebook](4503-notebook.pdf)
 * [Link to Analysis Work](4503-analysis.pdf)
 
-* Links to Demonstration Videos
-  * https://www.youtube.com/watch?v=7-mJySMDjt8
-  * https://www.youtube.com/watch?v=106_06flLXU
-  * https://www.youtube.com/watch?v=QJTlfBXuEMA
-  * https://www.youtube.com/watch?v=OR8Ijzdi6tY
-
 {{< figure src="4503-thumb.png" >}}
 
 #### 4504 - Dominion Card Set {{< ribbon color="lavender" >}}
