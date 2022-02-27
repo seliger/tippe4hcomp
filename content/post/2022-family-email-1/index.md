@@ -32,7 +32,7 @@ For those of you who are new, and _nearly 50% of you are new_ -- **WELCOME!!!** 
 
 As always, the Computer Project website will have the latest information regarding the project. We had some welcomed changes from the state this year, including:
 
-* Addition of "Robotics" category. We have had at least one Robotics entry for the last two years, and with the nearing addtion of a 4-H Robotics Club in Tippecanoe County, we are certain to have more!
+* Addition of the "Robotics" category. We have had at least one Robotics entry for the last two years, and with the nearing addition of a 4-H Robotics Club in Tippecanoe County, we are certain to have more!
 * Minor cleanup on formatting, etc. 
 
 The updated Project Requirements are located here:
