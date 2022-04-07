@@ -135,3 +135,7 @@ gzip = false
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^WC_']
