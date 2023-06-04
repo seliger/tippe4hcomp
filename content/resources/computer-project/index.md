@@ -14,8 +14,8 @@ categories:
 - project
 - rules
 - exhibit
-date: "2022-02-26T09:00:00Z"
-lastmod: "2022-02-26T09:00:00Z"
+date: "2023-06-04T09:00:00Z"
+lastmod: "2023-06-04T09:00:00Z"
 featured: true
 draft: false
 
@@ -24,12 +24,12 @@ projects: []
 
 ## Computer Project Exhibit Requirements {style=text-align:center}
 
-There are three exhibit grade level divisions; Grades 3-5, Beginner; Grades 6-8, Intermediate; and Grades 9-12, Advanced. Exhibits are to be skill appropriate for the member’s grade level.
+There are three exhibit grade level divisions; Grades 3–5, Beginner; Grades 6–8, Intermediate; and Grades 9–12, Advanced. Exhibits are to be skill appropriate for the member’s grade level.
 
-Youth enrolled in the computer project will select one of the below subject categories to study, regardless of grade. Youth may choose to create an exhibit demonstrating skills learned during the year. Check with your county Purdue Extension Office to determine if a computer will be available during judging and if there will be an opportunity to explain your exhibit to the judge. Exhibits qualifying for state fair are to be submitted on a thumb drive securely attached to a notebook/portfolio describing accomplishments, skills learned, design ideas, budget, a summary of what was done, screenshots showing the development and final project, etc. as the exhibitor will not be able to discuss their work with a judge. Poster exhibits 22”x28” or freestanding 3-dimensional display boards no larger than 36”x36” may be submitted. Youth may continue in the same subject category in subsequent years expand on the previous year’s topic or choose a new topic. Subject categories are:
+Youth enrolled in the computer project will select one of the below subject categories to study, regardless of grade. Youth may choose to create an exhibit demonstrating skills learned during the year. Check with your county Purdue Extension Office to determine if a computer will be available during judging and if there will be an opportunity to explain your exhibit to the judge. Exhibits qualifying for state fair are to be submitted on a thumb drive securely attached to a notebook/portfolio describing accomplishments, skills learned, design ideas, budget, a summary of what was done, screenshots showing the development and final project, etc. as the exhibitor will not be able to discuss their work with a judge. Poster exhibits 22"x28" or freestanding 3-dimensional display boards no larger than 36”x36” may be submitted. Youth may continue in the same subject category in subsequent years expand on the previous year’s topic or choose a new topic. Subject categories are:
 
-* Block Based Programming
-* Text Based Programming
+* Block-Based Programming
+* Text-Based Programming
 * Web Design and Computer Entrepreneurship
 * Computer Forensics
 * Hardware and Networking Design/Install/Repair
@@ -48,9 +48,14 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 
 ## Exhibit Class Guidelines
 
-### Blocked Based Programming
+### Programming, Block- and Text-Based
 
-**Beginner – Grades 3-5 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
+Youth can submit programming projects in a language of their choosing.  Some popular choices include, but are not limited to: 
+
+- Block Based: Scratch, Code Studio, Alice, etc:   
+- Text Based: Python,JavaScript, C/C++, C#, ASP.net, R, Go, Java, PHP, Perl, Ruby etc
+
+**Beginner – Grades 3-5 –** Create a program using  the programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
 
 * Sequence
 * Iteration
@@ -60,47 +65,30 @@ A COUNTY MAY SUBMIT A TOTAL OF THREE STATE FAIR ENTRIES, ONE PER GRADE LEVEL DIV
 * User input
 * Any other similar skill
 
-**Intermediate – Grades 6-8 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
+**Intermediate – Grades 6-8 –**  Create a program using  a programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
 
-* More robust demonstration of beginner skills
-* Modularization
-* Lists
-* Any other similar skill
+- More robust demonstration of beginner skills
+- Commenting 
+- Correct Syntax
+- Lists
+- Functions
+- Algorithms
+- Modularization
+- Lists
+- Any other similar skill
 
-**Advanced – Grades 9-12 –** Create a block-based program using Scratch, Code Studio, Alice, or another graphic programming language of your choice. You should comment your work and it must include at least ten different commands. Skills this program could use are:
+**Advanced – Grades 9-12 –** Create a program using  a programming language of your choice. You should comment your work, and it must include at least ten different commands. Skills this program could use are:
 
-* More robust demonstration of Intermediate Skills
-* Parameters
-* Recursion
-* Any other similar skill
-
-### Text Based Programming
-
-**Beginner – Grades 3-5 –** This option is not available.
-
-**Intermediate – Grades 6-8 –** Create a text-based program of your choosing using any text-based language you are comfortable in. The code should demonstrate an understanding of at least 4 of these skills:
-
-* Commenting
-* Correct syntax
-* Variables
-* Loops
-* Conditionals
-* User Input
-* Lists
-* Functions
-* Algorithms
-* Any other similar skill
-
-**Advanced Grades 9-12 –** Create a text-based program of your choosing using any text-based language you are comfortable in. The code should demonstrate an understanding of at least 8 of these skills:
-
-* A more robust understanding of the intermediate skills
-* Interact with databases
-* Classes
-* Objects
-* Methods
-* Inheritance
-* Integrate multiple languages into one program
-* Any other similar skill
+- More robust demonstration of Intermediate Skills
+- Recursion 
+- Interact with databases
+- Classes
+- Objects
+- Methods
+- Inheritance
+- Integrate multiple languages into one program
+- Demonstrate Utilization of a version control system
+- Any other similar skill
 
 ### Web Design and Computer Entrepreneurship
 
