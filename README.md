@@ -16,7 +16,7 @@ This repository stores the scaffolding used to create and maintain the Tippecano
 
 ## License
 
-Website Contents: Copyright 2020-present [Corey Seliger](https://coreyseliger.me).
+Website Contents: Copyright 2020-present [Corey Seliger](https://seliger.me).
 
 Wowchemy Website Builder: Copyright 2017-present [George Cushen](https://georgecushen.com).
 
